@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Syazwina Marsya
 =======================================================================================================================================
 
-I am a first year student in Computer Network & Security in UTM
+I am a second year student in Computer Network & Security in UTM
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [syamarsya4@gmail.com](mailto:syamarsya4@gmail.com)
